@@ -8,4 +8,6 @@
 
 ## website: 4thwithme.dev
 
+![gif example](./example.gif)
+
 ![example](./example.jpg "Example")
