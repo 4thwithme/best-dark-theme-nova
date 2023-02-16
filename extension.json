@@ -1,0 +1,9 @@
+{
+  "identifier": "org.BestDarkTheme",
+  "name": "Best Dark Theme",
+  "organization": "MyOrganization",
+  "description": "Lorem ipsum, dolor sit amet.",
+  "version": "1.0",
+  "categories": ["themes"],
+  "bugs": "aopoenko@gmail.com"
+}
