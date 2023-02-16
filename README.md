@@ -8,4 +8,4 @@
 
 ## website: 4thwithme.dev
 
-![example](./Images/extension/example.png)
+![example](./example.jpg "Example")
