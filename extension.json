@@ -1,11 +1,12 @@
 {
-  "identifier": "org.BestDarkTheme",
+  "identifier": "devdevdev.4thwithme",
   "name": "Best Dark Theme",
-  "organization": "MyOrganization",
-  "description": "Lorem ipsum, dolor sit amet.",
-  "version": "1.0",
+  "organization": "4thwithme",
+  "author": "aopopenko@gmail.com",
+  "description": "Best Dark Theme for Nova code editor. Author: 4thwithme. Email: aopopenko@gmail.com. 4thwithme.dev",
+  "version": "0.1.0",
   "categories": ["themes"],
-  "bugs": "aopoenko@gmail.com",
+  "bugs": "https://github.com/4thwithme/best-dark-theme-nova",
   "repository": "https://github.com/4thwithme/best-dark-theme-nova",
   "homepage": "https://github.com/4thwithme/best-dark-theme-nova"
 }
