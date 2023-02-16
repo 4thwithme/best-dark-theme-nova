@@ -5,5 +5,7 @@
   "description": "Lorem ipsum, dolor sit amet.",
   "version": "1.0",
   "categories": ["themes"],
-  "bugs": "aopoenko@gmail.com"
+  "bugs": "aopoenko@gmail.com",
+  "repository": "https://github.com/4thwithme/best-dark-theme-nova",
+  "homepage": "https://github.com/4thwithme/best-dark-theme-nova"
 }
